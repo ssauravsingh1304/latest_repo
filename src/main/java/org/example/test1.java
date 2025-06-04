@@ -28,4 +28,10 @@ public class test1 {
         System.out.println("test1_3");
         System.out.println(urlname);
     }
+    @Test
+    public void test1_4()
+    {
+
+        System.out.println("test1_4");
+    }
 }
